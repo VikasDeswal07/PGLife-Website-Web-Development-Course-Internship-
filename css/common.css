@@ -100,6 +100,10 @@ h1{
     }
 
     /* Header */
+
+    .logo{
+        height: 40px;
+    }
     .header{
         background-color: white;
         font-size: 13px;
